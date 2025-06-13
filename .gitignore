@@ -1,0 +1,6 @@
+documents
+data.pkl
+database.csv
+__pycache__
+.env
+.venv

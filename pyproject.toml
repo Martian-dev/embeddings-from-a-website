@@ -1,0 +1,20 @@
+[project]
+name = "dataprep"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.13.4",
+    "firecrawl-py>=2.8.0",
+    "google-generativeai>=0.8.5",
+    "html2text>=2025.4.15",
+    "langchain>=0.3.25",
+    "langchain-community>=0.3.25",
+    "langchain-google-genai>=2.0.10",
+    "markdown>=3.8",
+    "openai>=1.86.0",
+    "readability-lxml>=0.8.4.1",
+    "requests>=2.32.4",
+    "supabase>=2.15.3",
+]
